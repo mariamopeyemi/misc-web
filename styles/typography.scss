@@ -1,0 +1,160 @@
+@import "variables.module.scss";
+
+
+.title-1-light {
+  font-size: 3.9rem;
+  font-weight: 800;
+  line-height: 4.3rem;
+  color: white;
+  font-family: $font-primary;
+  @media (max-width: 600px) {
+    font-size: 2.2rem;
+    line-height: 2.7rem;
+   }
+
+}
+.sub-title-nude {
+  font-size: 1.5rem;
+  font-weight: 400;
+  color: #A9AD9F;
+  line-height: 1.57rem;
+  font-family: $font-primary;
+  @media (max-width: 600px) {
+    font-size: 1rem;
+   }
+}
+
+
+.title-2-light{
+  font-size: 3.2rem;
+  font-weight: 800;
+  color: white;
+  line-height: 4rem;
+  font-family: $font-primary;
+  @media (max-width: 600px) {
+    font-size: 1.6rem;
+    font-weight: 700;
+    line-height: 1.7rem;
+   }
+}
+.title-2-dark{
+  font-size: 3rem;
+  font-weight: 700;
+  color: black;
+  line-height: 3.3rem;
+  font-family: $font-primary;
+  @media (max-width: 600px) {
+    font-size: 1.6rem;
+    font-weight: 700;
+    line-height: 1.7rem;
+   }
+}
+.title-3-green{
+  font-size: 1.13rem;
+  font-weight: 400;
+  color:#89C149;
+  letter-spacing: 0.4rem;
+  line-height: 1.25rem;
+  font-family: $font-primary;
+  @media (max-width: 600px) {
+    font-size: 0.8rem;
+   }
+}
+.title-3-custom-white{
+  font-size: 3.6rem;
+  font-weight: 800;
+  color:white;
+  letter-spacing: 0.4rem;
+  line-height: 2rem;
+  font-family: $font-primary;
+  @media (max-width: 600px) {
+    font-size: 2.1rem;
+    line-height: 1.5rem;
+   }
+}
+.sub-title2-light{
+  font-size: 1rem;
+  font-weight: 400;
+  color: #A9AD9F;
+  line-height: 1.5rem;
+  font-family: $font-primary;
+  @media (max-width: 600px) {
+    font-size: 1rem;
+    // line-height: 1rem;
+   }
+}
+//
+.sub-title3-light{
+  font-size: 1.13rem;
+  font-weight: 400;
+  color: white;
+  line-height: 1.5rem;
+  font-family: $font-primary;
+  @media (max-width: 600px) {
+    font-size: 1rem;
+    line-height: 1rem;
+   }
+}
+.sub-title4-dark{
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: black;
+  line-height: 1.5rem;
+  font-family: $font-primary;
+  @media (max-width: 600px) {
+    font-size: 1.13rem;
+    line-height: 1rem;
+   }
+}
+.sub-title5-nude{
+  font-size: 0.9rem;
+  font-weight: 400;
+  color: #5C6054;
+  line-height: 1.25rem;
+  font-family: $font-primary;
+  @media (max-width: 600px) {
+    font-size: 0.75rem;
+    line-height: 1rem;
+   }
+}
+.sub-title5-black{
+  font-size: 1rem;
+  font-weight: 400;
+  color: black;
+  line-height: 1.25rem;
+  font-family: $font-primary;
+  @media (max-width: 600px) {
+    font-size: 1rem;
+    line-height: 1rem;
+   }
+}
+.form-text{
+  font-size: 0.7rem;
+  font-weight: 500;
+  color: #C5C8BA;
+  line-height: 1rem;
+  font-family: $font-primary;
+  @media (max-width: 600px) {
+    font-size: 0.7rem;
+    line-height: 1rem;
+   }
+}
+.footer-text{
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: white;
+  line-height: 1rem;
+  font-family: $font-primary;
+  @media (max-width: 600px) {
+    font-size: 0.9rem;
+    line-height: 1rem;
+   }
+}
+
+
+
+
+
+
+
+
